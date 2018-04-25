@@ -5,6 +5,8 @@ funcionMisteriosa2 g = g . length
 funcionMisteriosa3 h g x = h (g x) True 
 
 
+
+--xdd
 --lol
 
 darVuelta f1 a b = f1 b a
